@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "dynamic-dropdown-client-side-solution",
+    "id": "4a1c66ed-fb2f-4d0e-9eff-f4aef2f88d70",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "dynamic-dropdown description"
+      },
+      "longDescription": {
+        "default": "dynamic-dropdown description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "dynamic-dropdown Feature",
+        "description": "The feature that activates elements of the dynamic-dropdown solution.",
+        "id": "90a314ae-1483-4c7b-92a3-a64beda97554",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/dynamic-dropdown.sppkg"
+  }
+}
